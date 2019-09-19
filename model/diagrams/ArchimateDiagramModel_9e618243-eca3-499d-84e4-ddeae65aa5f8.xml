@@ -76,8 +76,8 @@
       id="cc460f44-673f-47aa-bf95-1439d55297c5"
       targetConnections="145a05e1-427c-400d-a6dc-da3a8512b15f">
     <bounds
-        x="276"
-        y="215"
+        x="204"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -101,11 +101,23 @@
       id="ef1cc173-b1ad-4ca1-a4fd-495b20615f42">
     <bounds
         x="192"
-        y="180"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_1e0c19d1-e65a-404f-bd78-323a61e99ac3.xml#1e0c19d1-e65a-404f-bd78-323a61e99ac3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bf12d720-f412-4578-87af-d00a4073bd7e">
+    <bounds
+        x="402"
+        y="180"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_aba9d520-0a36-4987-88cd-9cb3b66b4f7f.xml#aba9d520-0a36-4987-88cd-9cb3b66b4f7f"/>
   </children>
 </archimate:ArchimateDiagramModel>
