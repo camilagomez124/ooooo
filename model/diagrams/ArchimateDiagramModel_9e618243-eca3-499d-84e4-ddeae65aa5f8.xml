@@ -37,4 +37,28 @@
         xsi:type="archimate:Resource"
         href="Resource_2bcdda7b-37d5-4575-a476-a5be16244c79.xml#2bcdda7b-37d5-4575-a476-a5be16244c79"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7bb6dcef-456a-4358-b67b-fd4e10947ec4">
+    <bounds
+        x="421"
+        y="284"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_3480ee20-a1ef-41b7-b096-4c5f973f6356.xml#3480ee20-a1ef-41b7-b096-4c5f973f6356"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="195e9701-f482-47ca-96fb-60025912f9d0">
+    <bounds
+        x="348"
+        y="212"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInterface"
+        href="BusinessInterface_cc345837-1ba6-49a9-8008-e484a3f38510.xml#cc345837-1ba6-49a9-8008-e484a3f38510"/>
+  </children>
 </archimate:ArchimateDiagramModel>
