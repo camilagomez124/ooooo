@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="9e618243-eca3-499d-84e4-ddeae65aa5f8">
+    name="helloooo"
+    id="9e618243-eca3-499d-84e4-ddeae65aa5f8"
+    documentation="no entiendo ni jota">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2614c626-e3b9-476c-babc-293fb21dc775"
