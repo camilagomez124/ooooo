@@ -132,4 +132,16 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_cf2b1228-9f83-461e-a513-fe368a2ffc1a.xml#cf2b1228-9f83-461e-a513-fe368a2ffc1a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1eb1c0fe-4067-49f2-9e1a-a51fb6dad506">
+    <bounds
+        x="579"
+        y="83"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_e852e73e-c412-4091-8d63-d72e726946a4.xml#e852e73e-c412-4091-8d63-d72e726946a4"/>
+  </children>
 </archimate:ArchimateDiagramModel>
