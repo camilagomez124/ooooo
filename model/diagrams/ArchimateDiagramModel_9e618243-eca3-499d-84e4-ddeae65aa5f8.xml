@@ -261,5 +261,17 @@
         y="126"
         width="400"
         height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fbaa40d3-c3af-44e3-8582-ef66dfef73a2">
+      <bounds
+          x="135"
+          y="137"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:CourseOfAction"
+          href="CourseOfAction_ce0767ca-88ce-44d4-830e-3370e799d459.xml#ce0767ca-88ce-44d4-830e-3370e799d459"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
