@@ -204,18 +204,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e2203f08-1eb8-42fa-9337-f78261167688">
-    <bounds
-        x="354"
-        y="267"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_efc87357-9e72-418c-82b4-11cda2daa855.xml#efc87357-9e72-418c-82b4-11cda2daa855"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="32a50074-4dbd-42cd-8961-4f24e8eafcbf">
     <bounds
         x="271"
@@ -262,5 +250,16 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_6bada227-a9cd-476c-a6d5-2d95c4ef3166.xml#6bada227-a9cd-476c-a6d5-2d95c4ef3166"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3395a30f-e177-442f-8420-c557e2c57cdb"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="23"
+        y="126"
+        width="400"
+        height="140"/>
   </children>
 </archimate:ArchimateDiagramModel>
