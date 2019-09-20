@@ -286,4 +286,16 @@
           href="Location_605a4d2f-b2b3-47f8-b1e7-5023f0e40766.xml#605a4d2f-b2b3-47f8-b1e7-5023f0e40766"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fdb8e441-06c2-4a6f-bf7d-b475ebd820b5">
+    <bounds
+        x="323"
+        y="280"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_b52eebe0-81c6-4432-920d-b8d2e353d259.xml#b52eebe0-81c6-4432-920d-b8d2e353d259"/>
+  </children>
 </archimate:ArchimateDiagramModel>
