@@ -251,4 +251,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_7da6929d-9458-43be-94bd-36ba5ab1f849.xml#7da6929d-9458-43be-94bd-36ba5ab1f849"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3d4b3220-407f-448e-9eff-ae1f9c571768">
+    <bounds
+        x="105"
+        y="158"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_6bada227-a9cd-476c-a6d5-2d95c4ef3166.xml#6bada227-a9cd-476c-a6d5-2d95c4ef3166"/>
+  </children>
 </archimate:ArchimateDiagramModel>
