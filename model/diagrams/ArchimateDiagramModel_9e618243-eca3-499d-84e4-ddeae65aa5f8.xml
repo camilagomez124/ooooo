@@ -254,8 +254,8 @@
       id="fa301c79-eef6-4c2d-acb9-900353a8ea85"
       textAlignment="1">
     <bounds
-        x="64"
-        y="293"
+        x="48"
+        y="399"
         width="189"
         height="140"/>
     <archimateElement
@@ -320,5 +320,17 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_b52eebe0-81c6-4432-920d-b8d2e353d259.xml#b52eebe0-81c6-4432-920d-b8d2e353d259"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7ddd9ab3-4935-459c-a81f-dac7a58f4ecf">
+    <bounds
+        x="224"
+        y="468"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_6bb5511d-d0a7-4496-a15c-92c0689d01ec.xml#6bb5511d-d0a7-4496-a15c-92c0689d01ec"/>
   </children>
 </archimate:ArchimateDiagramModel>
